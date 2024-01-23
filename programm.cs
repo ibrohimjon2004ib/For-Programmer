@@ -39,4 +39,4 @@ namespace ConsoleApp5
 
         }
     }
-}
+}//fori bologish prosta baroi chand bor sar dodani barnomahay
